@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning pyhton (django)
 - 💞️ I’m looking to collaborate on open source projects involving AI and ML.
 - 📫 Whatsapp: +92-321-405-2536
-- 📫 Skype: hafiz.nauman.zahid
 - 📫 Email: nauman.goldsmith@gmail.com
 
 <!---
